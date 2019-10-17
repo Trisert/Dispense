@@ -1,0 +1,5 @@
+https://www.vati.it/vale/documenti/terze/LinguaggiDiProgrammazione.pdf
+https://www.vati.it/vale/documenti/terze/LinguaggioJava.pdf
+https://www.vati.it/vale/documenti/terze/GraficaOggetti.pdf
+https://www.vati.it/vale/documenti/terze/FunzioniRicorsive.pdf
+https://www.vati.it/vale/documenti/terze/ComplessitaRicercaOrdinamento.pdf
